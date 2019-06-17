@@ -1,4 +1,4 @@
-# Objects P2
+# Objects 
 
 ## Please print your answers to the console.
 
